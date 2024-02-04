@@ -1,24 +1,3 @@
-# 🚀 ML Engineer @ Emissary 🚀
-
-## 🥁 Background
-
-An AI infrastructure platform that enables companies build extraordinary proprietary AI capabilities that withstand the test of time. They're a well-funded team with extensive production-grade AI development experience focused on making the development and dissemination of AI as smooth and rapid as humanly possible and are passionate about bringing the benefits of AI to the 99%.
-
-### 🛠️ Setup
-
-- Laptop or machine or cloud instance with GPU and a stable internet connection.
-- Setup deep learning required environment (packages like python, tensorflow, keras, etc).
-- Download the dataset ([link](https://drive.google.com/file/d/1ZZ2TvL-UhdLbUOyQgYPMRiAG3APxPRp_/view?usp=sharing)) mentioned below and the data loader script handy to avoid delay.
-
-## ⛔ Thing to keep in mind
-
-- Chatgpt use is not allowed
-- The maximum allotted time for this challenge is 2.5 hrs. Pls manage your time accordingly.
-- keep your camera on throughout the challenge
-- share your entire screen throughout the challenge
-- once you complete the challenge, please ring us at 9560444655 to assist you with your response & demo recording
-- once you are done, push your project on a github link and WhatsApp it to the above number
-
 ## **🧠 What's the Mission?**
 
 Welcome to this klimbB challenge! This challenge is designed for ML Engineers who are keen to demonstrate their expertise in deep learning and large language models models. End goal of this challenge is to build a model for classification/prediction and which can be optimized to be able to deploy/use in devices with low memory requirements without sacrificing the model performance.
@@ -40,7 +19,7 @@ Here are the steps to be followed for creating solution for the given challenge:
 
 Data can be downloaded from the following link: 
 
-This data contains around 25k images of size 150x150 distributed under 6 categories.
+This data contains around 17k images of size 150x150 distributed under 6 categories.
 *[ buildings,  forest,  glacier,  mountain,  sea,  street ].*
 
 The Training and Testing data is already separated in the zip file provided. 
